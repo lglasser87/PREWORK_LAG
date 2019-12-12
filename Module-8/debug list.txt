@@ -1,0 +1,16 @@
+- change indent line 18
+- add h1 tags to line 19
+- change indentation line 22
+- move line 23 one down
+- change indentation line 24-27
+-add website line 43
+-add li tag line 72-76
+- line 87 change to Green
+- line 88 change to Orange
+- line 89 change to Pink and indent line
+- line 50 add < to img class and > to the end of the sentence
+- line 112 change errors to logic.js
+- JS Code: add Array to line 2 and 3
+- add "" to line 6 and 9
+- moved line 22 to 21
+-ad "" to click on line 20 and 24

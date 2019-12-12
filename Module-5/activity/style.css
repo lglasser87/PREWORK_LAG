@@ -1,0 +1,12 @@
+h1{text-align: center;}
+.red{color:red}
+.blue{color:blue}
+.green{color:green}
+.big{font-size:150%;}
+.tiny{font-size:25%;}
+.center{text-align: center;}
+.bold{font-weight: bold;}
+.font{font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+.multi{font-size: 150%;color: orange;font-weight: bold;}
+.styledFont{color:#108d10;}
+#styledImage{border-color: darkred; border-style: solid;border-width: 10px; margin: 0; padding: 02px; } 
